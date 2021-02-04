@@ -1,4 +1,5 @@
-Hello world
-Скучно, решил вот что-то добавить
-Hello my dear friend!
-Glad to see you
+Hello world;
+Скучно, решил вот что-то добавить;
+Hello my dear friend!;
+Glad to see you;
+Hello dear friend;
